@@ -1,4 +1,8 @@
 # Unemployment-Analysis-with-Python
+## 👤 Author
+- **Program:** EXPS Nexus Virtual Internship
+- **Role:** Data Science Intern
+- **Name:** Laiba Nisar
 # COVID-19 Economic Shock: Unemployment & Labor Dynamics Analysis
 
 An empirical economic analysis investigating the impact of the COVID-19 national lockdown on regional unemployment rates, labor force participation (LFPR), 
@@ -10,7 +14,13 @@ using high-frequency regional data. Rather than relying solely on headline figur
 and sector-specific resilience gaps to propose actionable economic interventions.
 
 ## 📊 Key Findings
-Before the lockdown (Jan–Mar 2020), national unemployment remained stable at ~9.2% alongside a consistent ~43–44% labor force participation rate (LFPR). The April–May 2020 peak lockdown triggered a severe shock, surging unemployment by 15.6 percentage points to ~24.8%, with urban areas suffering a steeper spike (~26.8%) than rural regions (23.4%). During the phased unlock (June 2020 onward), headline unemployment stabilized down to ~11.9% as agriculture absorbed reverse-migrant labor, though LFPR remained depressed due to prolonged worker discouragement.
+| Metric / Phase | Pre-Lockdown (Jan - Mar 2020) | Peak Lockdown (Apr - May 2020) | Post-Lockdown / Unlock (Jun 2020+) |
+| :--- | :--- | :--- | :--- |
+| **Mean Unemployment Rate** | ~9.2% | **~24.8%** (+15.6% jump) | ~11.9% (Gradual recovery) |
+| **Urban vs. Rural Shock** | Balanced baseline (~8-10%) | Urban hit harder (~26.8% vs 23.4%) | Rural absorbed reverse-migration faster |
+| **LFPR Trajectory** | Steady (~43-44%) | Sharp decline | Persistent labor discouragement |
+
+### Critical Analytical Takeaways:
 
 ### Key Analytical Takeaways:
 1. **The Lockdown Cliff:** National unemployment experienced an immediate 15+ percentage-point surge following the March 24, 2020 containment measures.
