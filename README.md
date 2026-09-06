@@ -10,11 +10,7 @@ using high-frequency regional data. Rather than relying solely on headline figur
 and sector-specific resilience gaps to propose actionable economic interventions.
 
 ## 📊 Key Findings
-
-Before the lockdown (Jan–Mar 2020), national unemployment remained stable at ~9.2% alongside a consistent ~43–44% labor force participation rate (LFPR).
-The April–May 2020 peak lockdown triggered a severe shock, surging unemployment by 15.6 percentage points to ~24.8%, with urban areas suffering a steeper
-spike (~26.8%) than rural regions (23.4%). During the phased unlock (June 2020 onward), headline unemployment stabilized down to ~11.9% as agriculture absorbed
-reverse-migrant labor, though LFPR remained depressed due to prolonged worker discouragement.
+Before the lockdown (Jan–Mar 2020), national unemployment remained stable at ~9.2% alongside a consistent ~43–44% labor force participation rate (LFPR). The April–May 2020 peak lockdown triggered a severe shock, surging unemployment by 15.6 percentage points to ~24.8%, with urban areas suffering a steeper spike (~26.8%) than rural regions (23.4%). During the phased unlock (June 2020 onward), headline unemployment stabilized down to ~11.9% as agriculture absorbed reverse-migrant labor, though LFPR remained depressed due to prolonged worker discouragement.
 
 ### Key Analytical Takeaways:
 1. **The Lockdown Cliff:** National unemployment experienced an immediate 15+ percentage-point surge following the March 24, 2020 containment measures.
@@ -38,4 +34,4 @@ reverse-migrant labor, though LFPR remained depressed due to prolonged worker di
 - Jupyter Notebook / Google Colab
 
 ### Installation
-pip install pandas numpy matplotlib seaborn plotly
+pip install pandas numpy matplotlib seaborn 
